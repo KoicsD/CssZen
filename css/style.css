@@ -52,7 +52,7 @@ abbr {
 
 /* specific divs */
 .page-wrapper { 
-	background: url('img/background.JPG') no-repeat top left;
+	background: url('../img/background.JPG') no-repeat top left;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
