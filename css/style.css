@@ -52,10 +52,10 @@ abbr {
 
 /* specific divs */
 .page-wrapper { 
-	background: url('../img/background.JPG') no-repeat top left;
-	-webkit-background-size: 100%;
-	-moz-background-size: 100%;
-	-o-background-size: 100%;
+	background: url('../img/background.JPG') no-repeat center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
 	padding: 0 110px 0 175px;
 	margin: 0; 
 	position: relative;
